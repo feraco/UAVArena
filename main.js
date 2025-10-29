@@ -22,18 +22,6 @@ $(function(){
     ];
 
     var engines = [
-        {
-            id: "odm-0.9.9",
-            label: "ODM 0.9.9",
-        },
-        {
-            id: "odm-2.1.1",
-            label: "ODM 2.1.1"
-        },
-	{
-            id: "odm-2.4.7",
-	    label: "ODM 2.4.7",
-	},
 	{
 	    id: "odm-2.8.0",
 	    label: "ODM 2.8.0",
